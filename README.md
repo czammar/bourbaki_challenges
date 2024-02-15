@@ -1,6 +1,7 @@
 # Proyecto 1
 
-WIP
+0: defect confirmed by operator
+1: defect not confirmed by operator
 
 ## Referencias
 
